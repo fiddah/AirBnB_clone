@@ -1,2 +1,2 @@
 # AirBnB_clone
-AirBnB clone project
+Description of the project
