@@ -1,6 +1,10 @@
-# AirBnB_clone
-Description of the project
-Description of the command interpreter:\n
-  How to start it
-  How to use it
-  Examples
+# 0x00. AirBnB clone - The console
+
+## Project Description
+- Explanation here
+
+## Description of command line interpreter
+
+### - how to start it
+### - how to use it
+### - examples
