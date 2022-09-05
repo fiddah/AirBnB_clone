@@ -2,7 +2,7 @@
 
 ## Project Description
 - This is an ALX SE project aimed at creating an AirBnB clone.
-###- AUTHORS:
+### AUTHORS:
 - Idris Abdullateef
 - Rufai Fatimah
 
