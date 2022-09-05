@@ -1,7 +1,10 @@
 # 0x00. AirBnB clone - The console
 
 ## Project Description
-- Explanation here
+- This is an ALX SE project aimed at creating an AirBnB clone.
+AUTHORS:
+## Idris Abdullateef
+## Rufai Fatimah
 
 ## Description of command line interpreter
 
