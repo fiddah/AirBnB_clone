@@ -114,7 +114,7 @@ class HBNBCommand(cmd.Cmd):
             print(eval(args[0])().id)
             self.storage.save()
 
-def do_show(self, argv):
+   def do_show(self, argv):
         """Prints the string representation of an instance based
         on the class name and id"""
         args = check_args(argv)
