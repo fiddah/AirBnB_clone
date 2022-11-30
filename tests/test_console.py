@@ -1063,7 +1063,7 @@ attribute_name string_value'
     def test_count_function(self):
         for key_class in self.list_class:
             with patch('sys.stdout', new=io.StringIO()) as f:
-                    HBNBCommand().onecmd(f"{key_class}.count()")
+                HBNBCommand().onecmd(f"{key_class}.count()")
             output = f.getvalue().replace("\n", "")
             self.assertTrue(output)
             self.assertIsInstance(int(output), int)
